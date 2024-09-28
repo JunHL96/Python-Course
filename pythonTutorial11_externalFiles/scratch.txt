@@ -1,0 +1,5 @@
+Jun - Student
+Eddin - Professor
+Noah - Peer
+freeCodeCamp - Youtube Teacher
+Python - Coding Language
